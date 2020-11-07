@@ -225,7 +225,7 @@ Introdução ao SCRUM
 - Introdução a Gestão de Projetos e ao SCRUM https://youtu.be/SrxZMmbmqIo
 - Papéis e responsabilidades de cada um do time https://youtu.be/9y-IguFRv-c
 - Cerimônias do Scrum https://youtu.be/sFTFosKhgrM
-- Gestão de projetos Tradicional x Ágil https://youtu.be/sFTFosKhgrM
+- Gestão de projetos Tradicional x Ágil https://youtu.be/XiJMNPkNfmc
 
 Fundamentos de um projeto Ágil
 
