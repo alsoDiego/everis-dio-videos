@@ -168,6 +168,37 @@ Arquitetura de dados essencial
 
 
 
+### Introdução ao Angular 8
+
+Primeiros passos para desenvolver com Angular
+
+- Instalando e configurando o ambiente https://youtu.be/Ost4dQIi-ZY
+- Criando a primeira aplicação com Angular
+- Trabalhando com módulos e componentes
+- Criando componentes e construindo o projeto
+- Criando componentes com atributos interdependentes
+
+Lidando com vários componentes
+
+- O que é injeção de dependência
+- Tratando eventos data binding
+- Transformando datas com Pipes
+- Protegendo Rotas com Guards
+- Ativando Rotas para acessar componentes
+- Trabalhando com formulários e templates
+
+Segregando responsabilidades
+
+- Fazendo requisições em HTTP
+- Trabalhando com delete
+- Segregando a aplicação em módulos
+- Conhecendo a pasta shared
+- Conhecendo a pasta core
+- Tratando erros com Angular
+- Recomendações do especialista
+
+
+
 ### Conceitos e melhores práticas com bancos de dados PostgreSQL
 
 Introdução ao bando de dados PostgreSQL
