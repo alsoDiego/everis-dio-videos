@@ -173,7 +173,7 @@ Arquitetura de dados essencial
 Primeiros passos para desenvolver com Angular
 
 - Instalando e configurando o ambiente https://youtu.be/Ost4dQIi-ZY
-- Criando a primeira aplicação com Angular
+- Criando a primeira aplicação com Angular https://youtu.be/teRCVVZMK50
 - Trabalhando com módulos e componentes
 - Criando componentes e construindo o projeto
 - Criando componentes com atributos interdependentes
